@@ -14,14 +14,15 @@ body {
 }
 
 nav a {
-  padding: 10px, 0px;
+  padding: 0, 10px;
   background-color: gray;
 }
 
 header, nav, #featured-property {
   /*margin-left: auto;*/
   /*margin-right: auto;*/
-  text-align: center;
+  /*text-align: center;*/
+  margin: 0 auto;
 }
 
 p #featured-property {
